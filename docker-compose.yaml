@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  data_processor_postgres:
+    image: postgres:17.0
+    container_name: data_processor_postgres
+    restart: always
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data_postgres:/var/lib/postgresql/data
+    networks:
+      - data_processor
+    env_file:
+      - .env
+
+networks:
+  data_processor:
+    driver: bridge

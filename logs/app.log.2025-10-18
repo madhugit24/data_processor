@@ -1,0 +1,225 @@
+[October 18, 2025 20:42:19 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 20:42:19 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: baa97d84-7208-4bfb-a29f-fbfe2a7c7d59
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [logger] | [path: /data_processor | method: GET | status: 308 PERMANENT REDIRECT | size: 261]
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [logger] | [Total request time: 0.00 seconds]
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 20:56:27] "[32mGET /data_processor HTTP/1.1[0m" 308 -]
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: baa97d84-7208-4bfb-a29f-fbfe2a7c7d59
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Referer: http://127.0.0.1:5000/data_processor
+Host: 127.0.0.1:5000
+
+]
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [logger] | [path: /data_processor/ | method: GET | status: 200 OK | size: 51]
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [logger] | [Total request time: 0.00 seconds]
+[October 18, 2025 20:56:27 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 20:56:27] "GET /data_processor/ HTTP/1.1" 200 -]
+[October 18, 2025 21:02:59 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 21:02:59 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 21:03:12 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: 9f7b6613-af18-4482-8bce-91c10e488f25
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 21:03:12 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 21:06:06 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 21:06:06 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 21:06:13 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: 67ee349a-15a6-4bec-9e20-5a455e3859c9
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 21:06:13 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 21:23:19 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 21:23:19 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 21:23:27 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: 083be232-5122-4439-8deb-5711bd826ef6
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 21:23:27 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 21:48:55 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 21:48:55 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 21:48:59 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: dca4726d-ba01-4406-b958-3ba8129251ba
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 21:48:59 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 21:50:01 India Standard Time] | [INFO] | [logger] | [path: /data_processor/start | method: GET | status: 500 INTERNAL SERVER ERROR | size: 81]
+[October 18, 2025 21:50:01 India Standard Time] | [INFO] | [logger] | [Total request time: 61.62 seconds]
+[October 18, 2025 21:50:01 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 21:50:01] "[35m[1mGET /data_processor/start HTTP/1.1[0m" 500 -]
+[October 18, 2025 21:50:26 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: 744f345d-18c4-4358-be81-e59accef0d5f
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 21:50:26 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 22:30:11 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 22:30:11 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 22:30:17 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: 78f38cce-6dc1-447b-9518-ec5f584feb7d
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 22:30:17 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 22:39:01 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 22:39:01 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 22:39:05 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: e2912f85-a23a-4712-96e1-6af53edcb0d9
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 22:39:05 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 22:45:55 India Standard Time] | [INFO] | [logger] | [path: /data_processor/start | method: GET | status: 500 INTERNAL SERVER ERROR | size: 269]
+[October 18, 2025 22:45:55 India Standard Time] | [INFO] | [logger] | [Total request time: 410.09 seconds]
+[October 18, 2025 22:45:55 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 22:45:55] "[35m[1mGET /data_processor/start HTTP/1.1[0m" 500 -]
+[October 18, 2025 22:46:36 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 22:46:36 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 22:49:18 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 22:49:18 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 22:49:22 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: d8e4de02-5aa1-425b-85a2-2bc8622e460e
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 22:49:22 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 22:49:34 India Standard Time] | [INFO] | [logger] | [path: /data_processor/start | method: GET | status: 500 INTERNAL SERVER ERROR | size: 131]
+[October 18, 2025 22:49:34 India Standard Time] | [INFO] | [logger] | [Total request time: 11.47 seconds]
+[October 18, 2025 22:49:34 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 22:49:34] "[35m[1mGET /data_processor/start HTTP/1.1[0m" 500 -]
+[October 18, 2025 22:50:01 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: 66485cd8-36d7-482e-aa69-8235e57b1cf4
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 22:50:01 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 22:50:26 India Standard Time] | [INFO] | [logger] | [path: /data_processor/start | method: GET | status: 500 INTERNAL SERVER ERROR | size: 131]
+[October 18, 2025 22:50:26 India Standard Time] | [INFO] | [logger] | [Total request time: 24.98 seconds]
+[October 18, 2025 22:50:26 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 22:50:26] "[35m[1mGET /data_processor/start HTTP/1.1[0m" 500 -]
+[October 18, 2025 22:52:12 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 22:52:12 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 22:52:17 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: 454321e6-a43a-40c8-8194-51a50a0d2761
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 22:52:17 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 22:57:53 India Standard Time] | [INFO] | [logger] | [path: /data_processor/start | method: GET | status: 500 INTERNAL SERVER ERROR | size: 113]
+[October 18, 2025 22:57:53 India Standard Time] | [INFO] | [logger] | [Total request time: 335.83 seconds]
+[October 18, 2025 22:57:53 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 22:57:53] "[35m[1mGET /data_processor/start HTTP/1.1[0m" 500 -]
+[October 18, 2025 23:00:36 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 23:00:36 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 23:02:58 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 23:02:58 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 23:03:04 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: d94864c3-a3f6-4777-8871-cd460d8287cd
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 23:03:04 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 23:08:47 India Standard Time] | [INFO] | [logger] | [path: /data_processor/start | method: GET | status: 500 INTERNAL SERVER ERROR | size: 3101]
+[October 18, 2025 23:08:47 India Standard Time] | [INFO] | [logger] | [Total request time: 342.26 seconds]
+[October 18, 2025 23:08:47 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 23:08:47] "[35m[1mGET /data_processor/start HTTP/1.1[0m" 500 -]
+[October 18, 2025 23:17:18 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 23:17:18 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 23:17:22 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: 3fbea025-4196-42ad-b6d4-4408dc6f887f
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 23:17:22 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 23:22:44 India Standard Time] | [INFO] | [logger] | [path: /data_processor/start | method: GET | status: 500 INTERNAL SERVER ERROR | size: 320]
+[October 18, 2025 23:22:44 India Standard Time] | [INFO] | [logger] | [Total request time: 321.44 seconds]
+[October 18, 2025 23:22:44 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 23:22:44] "[35m[1mGET /data_processor/start HTTP/1.1[0m" 500 -]
+[October 18, 2025 23:25:31 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 23:25:31 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 23:25:33 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: 212bbe13-d7b0-4668-9879-5fc97cf735f1
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 23:25:33 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 23:33:27 India Standard Time] | [DEBUG] | [data_processor] | [Successfully loaded Venue1-5_20240601_20240630.json]
+[October 18, 2025 23:33:27 India Standard Time] | [INFO] | [logger] | [path: /data_processor/start | method: GET | status: 200 OK | size: 71]
+[October 18, 2025 23:33:27 India Standard Time] | [INFO] | [logger] | [Total request time: 474.02 seconds]
+[October 18, 2025 23:33:27 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 23:33:27] "GET /data_processor/start HTTP/1.1" 200 -]
+[October 18, 2025 23:49:49 India Standard Time] | [INFO] | [_internal] | [[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[October 18, 2025 23:49:49 India Standard Time] | [INFO] | [_internal] | [[33mPress CTRL+C to quit[0m]
+[October 18, 2025 23:50:06 India Standard Time] | [INFO] | [logger] | [Headers: User-Agent: PostmanRuntime/7.49.0
+Accept: */*
+Postman-Token: a5a9e2fd-52d7-4b37-a38e-a405d652af16
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+
+]
+[October 18, 2025 23:50:06 India Standard Time] | [INFO] | [logger] | [Body: b'']
+[October 18, 2025 23:53:25 India Standard Time] | [DEBUG] | [data_processor] | [Successfully loaded Venue1-5_20240601_20240630.json]
+[October 18, 2025 23:53:25 India Standard Time] | [INFO] | [logger] | [path: /data_processor/start | method: GET | status: 200 OK | size: 71]
+[October 18, 2025 23:53:25 India Standard Time] | [INFO] | [logger] | [Total request time: 198.98 seconds]
+[October 18, 2025 23:53:25 India Standard Time] | [INFO] | [_internal] | [127.0.0.1 - - [18/Oct/2025 23:53:25] "GET /data_processor/start HTTP/1.1" 200 -]
