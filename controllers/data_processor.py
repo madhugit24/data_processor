@@ -25,7 +25,7 @@ def start_data_processor():
 
     if not json_files:
         return (
-            jsonify({"data": [], "error": "No JSON files found in input folder"}),
+            jsonify({"error": "No JSON files found in input folder"}),
             404,
         )
 
