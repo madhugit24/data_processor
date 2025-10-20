@@ -166,23 +166,36 @@ def start_data_processor():
                                 }
                             )
 
+        def chunk_list(data, size):
+            """
+            Yield successive n-sized chunks from a list.
+            """
+            for i in range(0, len(data), size):
+                yield data[i : i + size]
+
+        def save_data(model, data_list, chunk_size):
+            """
+            Write the data into the tables after chunking.
+            """
+            for chunk in chunk_list(data_list, chunk_size):
+                session.bulk_insert_mappings(model, chunk, render_nulls=True)
+
         # Use bulk_insert_mappings for much better performance
         session = g.session
+        chunk_size = 1000
         try:
             if venues:
-                session.bulk_insert_mappings(Venue, venues, render_nulls=True)
+                save_data(Venue, venues, chunk_size)
             if stores:
-                session.bulk_insert_mappings(Store, stores, render_nulls=True)
+                save_data(Store, stores, chunk_size)
             if transactions:
-                session.bulk_insert_mappings(
-                    Transaction, transactions, render_nulls=True
-                )
+                save_data(Transaction, transactions, chunk_size)
             if products:
-                session.bulk_insert_mappings(Product, products, render_nulls=True)
+                save_data(Product, products, chunk_size)
             if items:
-                session.bulk_insert_mappings(Item, items, render_nulls=True)
+                save_data(Item, items, chunk_size)
             if promos:
-                session.bulk_insert_mappings(Promo, promos, render_nulls=True)
+                save_data(Promo, promos, chunk_size)
 
             session.commit()
         except Exception as e:
